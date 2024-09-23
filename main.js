@@ -10,4 +10,3 @@ return lado**2
 console.log (area(6));
 
 let areaTriangulo = function(){}
-return
