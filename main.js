@@ -1,4 +1,4 @@
-// alert('Emanuelli Emidio Almeida e Gabielle Gaby')
+alert('Emanuelli Emidio Almeida e Gabielle Gaby')
 function soma(num1,num2){
 return num1+num2;
 }
@@ -14,9 +14,13 @@ let areaTriangulo = function(base,altura){
 }
 console.log(areaTriangulo(6,7))
 
-let nome = parseIntprompt('quanto é 2+2?');
-let nome = prompt('quanto é 2+8?');
-let nome = prompt('quanto é 0+2?');
-document.write(4);
-document.write(10);
-document.write(2);
+let nome1 = parseInt (prompt('quanto é 2+2?'));
+let nome2 = parseInt (prompt('quanto é 2+8?'));
+let nome2 = parseInt (prompt('quanto é 0+2?'));
+
+function 
+return
+
+document.write();
+document.write();
+document.write();
