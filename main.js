@@ -14,7 +14,7 @@ let areaTriangulo = function(base,altura){
 }
 console.log(areaTriangulo(6,7))
 
-let nome = prompt('quanto é 2+2?');
+let nome = parseIntprompt('quanto é 2+2?');
 let nome = prompt('quanto é 2+8?');
 let nome = prompt('quanto é 0+2?');
 document.write(4);
