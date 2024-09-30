@@ -27,7 +27,7 @@
 
 let estados = ['Parana', 'Mato Grosso', 'Para', 'Santa Cantarina', 'Rio de Janeiro', 'Bahia', 'Sao Paulo', 'Mato Grosso do Sul', 'Distrito Federal', 'Goias', 'Alagoas', 'Ceara',  'Acre', 'Maranhao', 'Pernambuco', 'Piaui', 'Paraiba', 'Rio Grande do Norte', 'Sergipe', 'Acre', 'Amapa', 'Amazonas', 'Rondonia', 'Roraima', 'Tocantins', 'Espiito Santos', 'Minas Gerais'];
 let i = 0;
-while(i<estados.length){
+while(i <estados.length){
     console.log(i);
-i = (+1);
+i = +1;
 }
