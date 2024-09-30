@@ -32,7 +32,7 @@ while(i <estados.length){
     console.log(estados[i]);
 i = i+1;
 }
-let'idade =16;
+let'idade = parseInt(prompt('qual a sua idade'));
 if(idade>17){
 console.log('já pode dirigir')
 
