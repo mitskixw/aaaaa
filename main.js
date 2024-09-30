@@ -18,7 +18,7 @@ let num1 = parseInt (prompt('numero'));
 let num2 = parseInt (prompt('numero'));
 let num3 = parseInt (prompt('numero'));
 
-function meidia(x,y,z){
+function media(x,y,z){
 
 return (x+y+z)/3
 }
