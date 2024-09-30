@@ -14,13 +14,15 @@ let areaTriangulo = function(base,altura){
 }
 console.log(areaTriangulo(6,7))
 
-let nome1 = parseInt (prompt('quanto é 2+2?'));
-let nome2 = parseInt (prompt('quanto é 2+8?'));
-let nome2 = parseInt (prompt('quanto é 0+2?'));
+let num1 = parseInt (prompt('numero'));
+let num2 = parseInt (prompt('numero'));
+let num3 = parseInt (prompt('numero'));
 
-function 
-return
+function meidia(x,y,z){
 
-document.write();
-document.write();
-document.write();
+return (x+y+z)/3
+}
+
+document.write(media(num1,num2,num3));
+
+let estados = ['Parana, Salvador, Para, Santa Cantarina, Rio de Janeiro, Bahia, Sao Paulo, Mato Grosso do Sul']
