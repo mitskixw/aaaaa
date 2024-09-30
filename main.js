@@ -29,5 +29,6 @@ let estados = ['Parana', 'Mato Grosso', 'Para', 'Santa Cantarina', 'Rio de Janei
 let i = 0;
 while(i <estados.length){
     console.log(i);
+    console.log(estados[i]);
 i = +1;
 }
