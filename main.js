@@ -25,4 +25,4 @@ return (x+y+z)/3
 
 document.write(media(num1,num2,num3));
 
-let estados = ['Parana, Salvador, Para, Santa Cantarina, Rio de Janeiro, Bahia, Sao Paulo, Mato Grosso do Sul']
+let estados = ['Parana', 'Mato Grosso', 'Para', 'Santa Cantarina', 'Rio de Janeiro', 'Bahia', 'Sao Paulo', 'Mato Grosso do Sul']
