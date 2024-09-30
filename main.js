@@ -32,3 +32,11 @@ while(i <estados.length){
     console.log(estados[i]);
 i = i+1;
 }
+let'idade =16;
+if(idade>17){
+console.log('já pode dirigir')
+
+}
+else{
+    console.log('ilegal dirigir');
+}
